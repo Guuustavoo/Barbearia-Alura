@@ -61,7 +61,7 @@ nav a:hover {
 }
 
 .utensilios {
-	width: calc(20% - 20px);
+	width: calc(15% - 20px);
 	float: left;
 	margin: 2em;
 
@@ -82,7 +82,7 @@ nav a:hover {
 
 .mapa {
 	background: linear-gradient(#FFFFFF,#888888);
-	margin: 2em;
+	margin: 0 auto;
 }
 
 .o-mapa-em-si {
