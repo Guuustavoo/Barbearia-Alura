@@ -63,7 +63,7 @@ nav a:hover {
 .utensilios {
 	width: calc(15% - 20px);
 	float: left;
-	margin: 0 2em 0 0;
+	margin: 1em;
 
 }
 
